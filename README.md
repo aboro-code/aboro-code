@@ -33,4 +33,4 @@ Python · TypeScript · FastAPI · PostgreSQL/pgvector · React · Docker
 
 Open to AI/ML internships.
 
-Portfolio · [Email](mailto:aboro134@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arnab-boro-361120326/)
+Portfolio · [Email](mailto:aboro134@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arnabboro/)
